@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_USER_PHONE": "@user_phone",
+    "VITE_SMS_API_KEY": "@sms_api_key"
+  }
+}

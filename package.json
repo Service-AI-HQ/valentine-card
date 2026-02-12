@@ -1,7 +1,8 @@
 {
   "name": "valentine-card",
+  "description": "An interactive, romantic Valentine's Day microsite for Nana 💕",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
